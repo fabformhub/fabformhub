@@ -1,1 +1,2 @@
-[type form alternative](https://github.io/fabformhub/me)
+[type form alternative](https://fabform.io)
+[cheaper alternative to typeform info](https://fabformhub.github.io/me/)
